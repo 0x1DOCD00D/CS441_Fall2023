@@ -1,5 +1,5 @@
 # Homework 1
-### The goal of this homework is for students to gain experience with solving a distributed computational problem using cloud computing technologies. The main textbook group (option 1) will design and implement an instance of the map/reduce computational model whereas the alternative textbook group (option 2) will use the CORBA model. You can check your textbook option in the corresponding column of the gradebook on the Blackboard.
+### The goal of this homework is for students to gain experience with solving a distributed computational problem using cloud computing technologies. The main textbook group (option 1) will design and implement an instance of the map/reduce computational model using AWS EMR whereas the alternative textbook group (option 2) will use the CORBA model. You can check your textbook option in the corresponding column of the gradebook on the Blackboard.
 ### Grade: 15%
 #### This Git repo contains the homework description that uses an open-source implementation of a [network simulator](https://github.com/0x1DOCD00D/NetGameSim) in Scala. Students should invest some time to learn the implementation details of the log generator, specifically, how mutation is largely avoided in the implementation and recursion is used, however, it is not required for completing this homework.
 
