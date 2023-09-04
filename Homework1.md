@@ -64,6 +64,7 @@ Sunday, October 1, 2023 at 10PM CST by submitting the link to your homework repo
 - the maximum grade for this homework is 15%. Points are subtracted from this maximum grade: for example, saying that 2% is lost if some requirement is not completed means that the resulting grade will be 15%-2% => 13%; if the core homework functionality does not work or it is not implemented as specified in your documentation, your grade will be zero;
 - only some basic map/reduce or CORBA examples from some repos are given and nothing else is done: zero grade;
 - using Java instead of Scala: 5% penalty;
+- homework submissions for an incorrectly chosen textbook assignment option will be desk-rejected with the grade zero;
 - having less than five unit and/or integration scalatests: up to 10% lost;
 - missing comments and explanations from your program with clarifications of your design rationale: up to 10% lost;
 - logging is not used in your programs: up to 5% lost;
